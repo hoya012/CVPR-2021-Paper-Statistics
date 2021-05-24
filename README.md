@@ -17,23 +17,23 @@ Inspired by [`CVPR-2020-Paper-Statistics`](https://github.com/hoya012/CVPR-2020-
 </p>
 
 
-# CVPR 2020 Paper Keywords statistics
+# CVPR 2021 Paper Keywords statistics
 
 - Most of the top keywords were maintained
-   - Image, detection, 3d, object, video, segmentation, adversarial, recognition, visual …
-- `search`, `self-supervised`, `semi-supervised` are about twice as frequent
-   - search : 18 -> 39
-   - self-supervised: 12 -> 33
-   - semi-supervised: 12 -> 25
+   - Image, detection, 3d, object, video, segmentation, etc.
+- `unsupervised`, `self-supervised`, `semi-supervised` are about x1.5 as frequent
+   - unsupervised : 52 -> 77
+   - self-supervised: 33 -> 50
+   - semi-supervised: 25 -> 35
 
 <p align="center">
-  <img width="1000" src="https://github.com/hoya012/CVPR-2021-Paper-Statistics/blob/master/2021_cvpr/top_keywords_2020%2B2021.jpg">
+  <img width="1000" src="https://github.com/hoya012/CVPR-2021-Paper-Statistics/blob/main/2021_cvpr/top_keywords_2020%2B2021.png">
 </p>
 
 # Analysis and Visualization Code (Jupyter Notebook)
 
 - The above data can be obtained from a simple jupyter notebook script.
-   - [`CVPR_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/CVPR-2021-Paper-Statistics/blob/master/2021_cvpr/CVPR2021_paper_statistics_using_chrome.ipynb) --> Use website data format
+   - [`CVPR_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/CVPR-2021-Paper-Statistics/blob/main/CVPR2021_paper_statistics_using_chrome.ipynb) --> Use website data format
 
 ## Prerequisites
 - python3.5
